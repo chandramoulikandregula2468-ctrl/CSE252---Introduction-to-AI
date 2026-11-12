@@ -1,0 +1,15 @@
+{
+  "point_metrics": {
+    "rmse": 1.4847985717361667,
+    "mae": 1.1963151693344116,
+    "r2": -0.07045161724090576
+  },
+  "calibration_thresholds": {
+    "observation_q": 2.494417905807495,
+    "observation_rank": 73,
+    "observation_n": 80,
+    "folder_q": 3.0944180488586426,
+    "folder_rank": 19,
+    "folder_n": 20
+  }
+}
